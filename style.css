@@ -24,4 +24,14 @@ h1 {
 	background-color: #e495e4;
 }
 
+.fpbtable-headings {
+	font-family: Rock Salt;
+	color: white;
+}
+
+.fpbtable-footer {
+	font-family: Rock Salt;
+	color: white;
+}
+
 /*color: aqua;*/
