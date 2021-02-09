@@ -12,12 +12,8 @@ h1 {
 
 .famous-punk-bands-table {
 	width: 100%;
-}
-
-#fpbtable-body {
 	color: black;
 	background-image: url("https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png");
-	background-color: #000000;
 }
 
 #fpbtable-body-odd {
