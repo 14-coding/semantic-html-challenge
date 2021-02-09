@@ -15,7 +15,17 @@ h1 {
 }
 
 #fpbtable-body {
-	color: red;
+	color: black;
+	background-image: url("https://cdn.glitch.com/8b1beacc-937c-4072-93d6-4ae825ab1a7a%2Fnoise.png");
+	background-color: #000000;
+}
+
+#fpbtable-body-odd {
+	background-color: #ff33cc;
+}
+
+#fpbtable-body {
+	background-color: #e495e4;
 }
 
 /*color: aqua;*/
